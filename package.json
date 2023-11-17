@@ -37,7 +37,6 @@
     "prosemirror-test-builder": "^1.0.0"
   },
   "scripts": {
-    "test": "pm-runtests",
-    "prepare": "pm-buildhelper src/index.ts"
+    "test": "pm-runtests"
   }
 }
